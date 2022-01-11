@@ -1,2 +1,3 @@
 # data_engineering_project
-Data Engineering Project
+Few Data Engineering projects. The projects are in jupyter noteboook (.pynb) format. 
+1. movies_dataset = Demonstrated ETL process using Python and PostgreSQL. 
